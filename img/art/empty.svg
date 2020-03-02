@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="657" height="317" viewBox="0 0 657 317">
+    <defs>
+        <style>
+            .cls-1{fill:#f7fafc}.cls-2{fill:#f1f1f1}
+        </style>
+    </defs>
+    <g id="Group_197" data-name="Group 197" transform="translate(-265 -200)">
+        <path id="Rectangle_272" d="M0 0h657v317H0z" class="cls-1" data-name="Rectangle 272" transform="translate(265 200)"/>
+        <path id="camera" d="M0 8.625a3.322 3.322 0 0 1 3.313-3.312h4.968L11.594 2h9.938l3.313 3.313h4.969a3.312 3.312 0 0 1 3.313 3.313v16.562a3.313 3.313 0 0 1-3.314 3.312h-26.5A3.313 3.313 0 0 1 0 25.188zm16.563 16.563a8.281 8.281 0 1 0-8.281-8.281 8.281 8.281 0 0 0 8.281 8.281zm0-3.312a4.969 4.969 0 1 1 4.969-4.969 4.969 4.969 0 0 1-4.969 4.969z" class="cls-2" transform="translate(577 343)"/>
+    </g>
+</svg>

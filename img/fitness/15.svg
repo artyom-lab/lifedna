@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#ddefe2}.cls-2{fill:#25772f}
+        </style>
+    </defs>
+    <g id="Group_477" data-name="Group 477" transform="translate(19122 21132)">
+        <g id="Eating_Between_Meals" data-name="Eating Between Meals" transform="translate(-19122 -21132)">
+            <circle id="Ellipse_12" cx="24" cy="24" r="24" class="cls-1" data-name="Ellipse 12"/>
+        </g>
+        <g id="broken-bone" transform="translate(-19254.004 -21121)">
+            <path id="Path_243" d="M166.868 4.851v5.626a1.166 1.166 0 0 0 .646 1.047l.866.435a.4.4 0 0 0 .4-.027l1.611-1.1a1.17 1.17 0 0 0 .513-.968V4.851a2.431 2.431 0 1 0-2.02-3.962 2.431 2.431 0 1 0-2.02 3.962z" class="cls-2" data-name="Path 243" transform="translate(-12.891)"/>
+            <path id="Path_244" d="M170.91 249.384v-8.166a.55.55 0 0 0-.879-.44l-1.6 1.193-.73-.437a.55.55 0 0 0-.833.471v7.379a2.431 2.431 0 1 0 2.02 3.962 2.431 2.431 0 1 0 2.02-3.962z" class="cls-2" data-name="Path 244" transform="translate(-12.892 -228.633)"/>
+            <path id="Path_245" d="M159.555 180.55l1.227.707a.4.4 0 1 0 .4-.693l-1.227-.707a.4.4 0 1 0-.4.693z" class="cls-2" data-name="Path 245" transform="translate(-7.934 -170.813)"/>
+            <path id="Path_246" d="M159.955 261.153l1.227-.707a.4.4 0 1 0-.4-.693l-1.227.707a.4.4 0 0 0 .4.693z" class="cls-2" data-name="Path 246" transform="translate(-7.934 -246.714)"/>
+            <path id="Path_247" d="M152.984 227.226a.4.4 0 0 0-.4-.4H151.4a.4.4 0 0 0 0 .8h1.181a.4.4 0 0 0 .4-.4z" class="cls-2" data-name="Path 247" transform="translate(0 -215.484)"/>
+            <path id="Path_248" d="M313.947 260.461l-1.227-.707a.4.4 0 1 0-.4.693l1.227.707a.4.4 0 0 0 .4-.693z" class="cls-2" data-name="Path 248" transform="translate(-153.061 -246.714)"/>
+            <path id="Path_249" d="M312.173 181.111a.4.4 0 0 0 .546.147l1.227-.707a.4.4 0 1 0-.4-.693l-1.227.707a.4.4 0 0 0-.146.546z" class="cls-2" data-name="Path 249" transform="translate(-153.06 -170.813)"/>
+            <path id="Path_250" d="M322.959 226.826h-1.181a.4.4 0 0 0 0 .8h1.181a.4.4 0 1 0 0-.8z" class="cls-2" data-name="Path 250" transform="translate(-161.855 -215.484)"/>
+        </g>
+    </g>
+</svg>

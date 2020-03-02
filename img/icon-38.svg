@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_680" data-name="Group 680" transform="translate(-696 -2826)">
+    <circle id="Ellipse_108" data-name="Ellipse 108" cx="24" cy="24" r="24" transform="translate(696 2826)" fill="#ddefe2"/>
+    <g id="antibiotic" transform="translate(707 2837)">
+      <circle id="Ellipse_109" data-name="Ellipse 109" cx="0.5" cy="0.5" r="0.5" transform="translate(18 17)" fill="#24762e"/>
+      <circle id="Ellipse_110" data-name="Ellipse 110" cx="0.5" cy="0.5" r="0.5" transform="translate(19 24)" fill="#24762e"/>
+      <ellipse id="Ellipse_111" data-name="Ellipse 111" cx="0.5" rx="0.5" transform="translate(8 21)" fill="#24762e"/>
+      <circle id="Ellipse_112" data-name="Ellipse 112" cx="0.5" cy="0.5" r="0.5" transform="translate(15 18)" fill="#24762e"/>
+      <ellipse id="Ellipse_113" data-name="Ellipse 113" cx="0.5" rx="0.5" transform="translate(21 21)" fill="#24762e"/>
+      <circle id="Ellipse_114" data-name="Ellipse 114" cx="0.5" cy="0.5" r="0.5" transform="translate(6 24)" fill="#24762e"/>
+      <path id="Path_700" data-name="Path 700" d="M7.113,11.19A4.167,4.167,0,0,0,1.22,17.083L7.7,23.565l5.892-5.892Z" transform="translate(0 -5.233)" fill="#24762e"/>
+      <path id="Path_701" data-name="Path 701" d="M39.747,2.22a4.167,4.167,0,0,0-5.892,0L27.373,8.7l5.892,5.892,6.482-6.482a4.166,4.166,0,0,0,0-5.892Z" transform="translate(-15.968)" fill="#24762e"/>
+      <path id="Path_702" data-name="Path 702" d="M35.333,33.667a1.667,1.667,0,1,0-1.667,1.667A1.668,1.668,0,0,0,35.333,33.667Z" transform="translate(-18.667 -18.083)" fill="#24762e"/>
+      <path id="Path_703" data-name="Path 703" d="M26.667,40a1.667,1.667,0,1,0,1.667,1.667A1.668,1.668,0,0,0,26.667,40Z" transform="translate(-14.583 -22.75)" fill="#24762e"/>
+      <path id="Path_704" data-name="Path 704" d="M36.667,46a1.667,1.667,0,1,0,1.667,1.667A1.668,1.668,0,0,0,36.667,46Z" transform="translate(-20.417 -26.25)" fill="#24762e"/>
+      <path id="Path_705" data-name="Path 705" d="M26.667,51a1.667,1.667,0,1,0,1.667,1.667A1.668,1.668,0,0,0,26.667,51Z" transform="translate(-14.583 -29.167)" fill="#24762e"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#ddefe2}.cls-2{fill:#25772f}
+        </style>
+    </defs>
+    <g id="Group_476" data-name="Group 476" transform="translate(19122 21572)">
+        <g id="Sugar_Preference" data-name="Sugar Preference" transform="translate(-19122 -21572)">
+            <circle id="Ellipse_13" cx="24" cy="24" r="24" class="cls-1" data-name="Ellipse 13"/>
+        </g>
+        <g id="hand-grip" transform="translate(-19110 -21566.646)">
+            <g id="Group_473" data-name="Group 473" transform="translate(14.399 13.947)">
+                <g id="Group_472" data-name="Group 472">
+                    <path id="Path_241" d="M317.05 176.208l-3.678-11.727a.8.8 0 0 0-1.006-.526l-1.379.433-.578-1.842a5.989 5.989 0 0 1-1.085 1.48c-.034.034-.068.066-.1.1l.233.743-1.379.433a.8.8 0 0 0-.526 1.006l3.678 11.727a.8.8 0 0 0 1.006.526l4.29-1.346a.8.8 0 0 0 .524-1.007z" class="cls-2" data-name="Path 241" transform="translate(-307.512 -162.546)"/>
+                </g>
+            </g>
+            <g id="Group_475" data-name="Group 475" transform="translate(0 6.647)">
+                <g id="Group_474" data-name="Group 474">
+                    <path id="Path_242" d="M11.958 6.647a4.548 4.548 0 0 0-4.548 4.548c0 .125 0 .248.015.37L6.1 15.789l-1.379-.433a.8.8 0 0 0-1.006.526L.037 27.609a.8.8 0 0 0 .526 1.006l4.29 1.346a.8.8 0 0 0 1.006-.526l3.679-11.727a.8.8 0 0 0-.526-1.008l-1.379-.433.722-2.3a4.548 4.548 0 1 0 3.6-7.322zm.025 7.329a2.784 2.784 0 1 1 2.784-2.784 2.784 2.784 0 0 1-2.784 2.784z" class="cls-2" data-name="Path 242" transform="translate(0 -6.647)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

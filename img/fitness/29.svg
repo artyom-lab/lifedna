@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#ddefe2}.cls-2{fill:#25772f}
+        </style>
+    </defs>
+    <g id="Group_466" data-name="Group 466" transform="translate(21115 18485)">
+        <g id="Anti_Oxidant_Need" data-name="Anti Oxidant Need" transform="translate(-21115 -18485)">
+            <circle id="Ellipse_22" cx="24" cy="24" r="24" class="cls-1" data-name="Ellipse 22"/>
+        </g>
+        <g id="blood-pressure" transform="translate(-21133 -18472.199)">
+            <g id="Group_465" data-name="Group 465" transform="translate(30 -.801)">
+                <g id="Group_464" data-name="Group 464">
+                    <path id="Path_235" d="M236.665 173.667a.987.987 0 0 0-.5-.846v-1.654a.5.5 0 1 0-1 0v1.654a.987.987 0 0 0-.5.846 1 1 0 0 0 2 0z" class="cls-2" data-name="Path 235" transform="translate(-223.665 -162.667)"/>
+                    <path id="Path_236" d="M20.5 0A3.735 3.735 0 0 0 17 4c0 1.61 1.214 4.461 3 4.928V18.5a4.49 4.49 0 0 1-8.972.273C12.6 18.574 14 18.2 14 17.5v-1.924a4.99 4.99 0 0 0 0-9.152V3.5C14 2.072 8.169 2 7 2s-7 .072-7 1.5v14C0 18.928 5.831 19 7 19c.474 0 1.713-.014 3.019-.123A5.5 5.5 0 0 0 21 18.5V8.928C22.786 8.461 24 5.61 24 4a3.735 3.735 0 0 0-3.5-4zM1.537 3.5A26.22 26.22 0 0 1 7 3a26.219 26.219 0 0 1 5.463.5A26.223 26.223 0 0 1 7 4a26.224 26.224 0 0 1-5.463-.5zM8 11a4 4 0 1 1 4 4 4 4 0 0 1-4-4z" class="cls-2" data-name="Path 236"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

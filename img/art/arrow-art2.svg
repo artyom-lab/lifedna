@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.667" height="10.093" viewBox="0 0 14.667 10.093">
+    <defs>
+        <style>
+            .cls-1{fill:#41c752}
+        </style>
+    </defs>
+    <g id="arrow-pointing-to-right" transform="rotate(180 7.333 26.005)">
+        <path id="Path_19" d="M14.467 46.481L10.1 42.116a.682.682 0 1 0-.964.964l3.2 3.2H.682a.682.682 0 0 0 0 1.364h11.656l-3.2 3.2a.682.682 0 0 0 .964.964l4.364-4.365a.682.682 0 0 0 .001-.962z" class="cls-1" data-name="Path 19"/>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#ddefe2}.cls-2{fill:#25772f}
+        </style>
+    </defs>
+    <g id="main" transform="translate(-67 -689)">
+        <g id="Group_5" data-name="Group 5" transform="translate(3 592)">
+            <g id="Group_46" data-name="Group 46" transform="translate(35 -56)">
+                <g id="Group_235" data-name="Group 235" transform="translate(-16 -605)">
+                    <g id="Group_211" data-name="Group 211" transform="translate(0 656)">
+                        <g id="Group_206" data-name="Group 206">
+                            <circle id="Ellipse_1" cx="24" cy="24" r="24" class="cls-1" data-name="Ellipse 1" transform="translate(45 102)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="bone" transform="translate(-155.026 679.5)">
+            <path id="Path_9" d="M22.179 3.871a3.363 3.363 0 0 0-1.927-.95 3.387 3.387 0 1 0-6.178 2.341l-8.788 8.789a3.39 3.39 0 1 0-2.341 6.178 3.387 3.387 0 1 0 6.178-2.341l8.79-8.79a3.391 3.391 0 0 0 4.268-5.227z" class="cls-2" data-name="Path 9" transform="translate(234 21.5)"/>
+        </g>
+    </g>
+</svg>

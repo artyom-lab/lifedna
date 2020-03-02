@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.456" height="17" viewBox="0 0 18.456 17">
+    <defs>
+        <style>
+            .cls-1{fill:#41c752}
+        </style>
+    </defs>
+    <g id="coffee" transform="translate(-23.272 .001)">
+        <g id="Group_407" data-name="Group 407" transform="translate(26.963 -.001)">
+            <g id="Group_406" data-name="Group 406">
+                <path id="Path_376" d="M118.862 3.961c-.452-.452-.652-.674-.652-1.193s.2-.74.653-1.193a.923.923 0 1 0-1.305-1.3 3.289 3.289 0 0 0-1.193 2.5 3.288 3.288 0 0 0 1.193 2.5c.452.453.653.675.653 1.193a.923.923 0 0 0 1.846 0 3.29 3.29 0 0 0-1.195-2.507z" class="cls-1" data-name="Path 376" transform="translate(-116.364 .001)"/>
+            </g>
+        </g>
+        <g id="Group_409" data-name="Group 409" transform="translate(31.27 -.001)">
+            <g id="Group_408" data-name="Group 408">
+                <path id="Path_377" d="M227.468 3.961c-.452-.452-.652-.674-.652-1.193s.2-.74.653-1.193a.923.923 0 1 0-1.305-1.3 3.289 3.289 0 0 0-1.193 2.5 3.288 3.288 0 0 0 1.193 2.5c.452.453.653.675.653 1.193a.923.923 0 1 0 1.846 0 3.289 3.289 0 0 0-1.195-2.507z" class="cls-1" data-name="Path 377" transform="translate(-224.97 .001)"/>
+            </g>
+        </g>
+        <g id="Group_411" data-name="Group 411" transform="translate(23.272 5.926)">
+            <g id="Group_410" data-name="Group 410">
+                <path id="Path_378" d="M37.472 239.492h.874a3.384 3.384 0 0 0 0-6.767H24.81a.923.923 0 0 0-.923.923v3.076a7.058 7.058 0 0 0 2.314 5.229h-2.006a.923.923 0 0 0 0 1.846h13.534a.923.923 0 0 0 0-1.846h-2.007a7.107 7.107 0 0 0 1.75-2.461zm.564-2.768v-2.153h.308a1.538 1.538 0 0 1 0 3.076h-.368a7.117 7.117 0 0 0 .061-.923z" class="cls-1" data-name="Path 378" transform="translate(-23.272 -232.725)"/>
+            </g>
+        </g>
+    </g>
+</svg>

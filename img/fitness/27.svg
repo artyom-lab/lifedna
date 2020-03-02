@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#ddefe2}.cls-2{fill:#25772f}
+        </style>
+    </defs>
+    <g id="Group_467" data-name="Group 467" transform="translate(21115 18052)">
+        <g id="Vitamin_B_and_folate" data-name="Vitamin B and folate" transform="translate(-21115 -18052)">
+            <circle id="Ellipse_4" cx="24" cy="24" r="24" class="cls-1" data-name="Ellipse 4"/>
+        </g>
+        <g id="cholesterol" transform="translate(-21105 -18042.002)">
+            <path id="Path_237" d="M14 0a14 14 0 1 0 14 14A14 14 0 0 0 14 0zm0 7.452a2.528 2.528 0 0 1 2.492 2.11A4.5 4.5 0 0 0 14 11.255a4.5 4.5 0 0 0-2.493-1.691A2.528 2.528 0 0 1 14 7.454zM6.766 20.486a2.44 2.44 0 1 1 2.44-2.44 2.44 2.44 0 0 1-2.44 2.44zm3.617-5.093A4.5 4.5 0 0 0 7.9 13.7a2.495 2.495 0 0 1 4.973 0 4.5 4.5 0 0 0-2.49 1.693zm3.617 5.1a2.447 2.447 0 1 1 2.447-2.447A2.447 2.447 0 0 1 14 20.493zm3.617-5.1a4.5 4.5 0 0 0-2.486-1.69 2.5 2.5 0 0 1 4.973 0 4.5 4.5 0 0 0-2.487 1.69zm3.618 5.107a2.459 2.459 0 1 1 2.459-2.459 2.459 2.459 0 0 1-2.459 2.459z" class="cls-2" data-name="Path 237"/>
+        </g>
+    </g>
+</svg>

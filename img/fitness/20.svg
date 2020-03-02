@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#ddefe2}.cls-2{fill:#25772f}
+        </style>
+    </defs>
+    <g id="Group_482" data-name="Group 482" transform="translate(19122 19812)">
+        <g id="Group_403" data-name="Group 403">
+            <g id="Group_401" data-name="Group 401">
+                <g id="Group_400" data-name="Group 400" transform="translate(0 440)">
+                    <g id="Appetite_Hunger_and_Satiety" data-name="Appetite Hunger and Satiety" transform="translate(-19122 -20252)">
+                        <circle id="Ellipse_5" cx="24" cy="24" r="24" class="cls-1" data-name="Ellipse 5"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path id="Path_258" d="M121.784 24.5a2.664 2.664 0 1 0 2.664 2.664 2.664 2.664 0 0 0-2.664-2.664zm-8.923 4.434a.89.89 0 0 0-.348 1.694l6.607 3.223v3.084l-5 6.4-.072.074a.888.888 0 1 0 1.256 1.255l.135-.135 6.343-5.822 6.362 5.843.116.114a.888.888 0 1 0 1.255-1.255l-.074-.074-5-6.4v-3.084l6.607-3.223a.89.89 0 0 0-.375-1.694.9.9 0 0 0-.4.1l-.043.021-6.674 2.555h-3.552l-6.677-2.555-.042-.021a.911.911 0 0 0-.429-.1zm8.923 15.994a17.3 17.3 0 0 0-7.529 1.888.886.886 0 1 0 .846 1.555 14.223 14.223 0 0 1 13.361 0 .888.888 0 1 0 .855-1.555 17.323 17.323 0 0 0-7.533-1.888z" class="cls-2" data-name="Path 258" transform="translate(-19220.002 -19824.5)"/>
+    </g>
+</svg>

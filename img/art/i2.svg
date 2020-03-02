@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#ddefe2}.cls-2{fill:#25772f}
+        </style>
+    </defs>
+    <g id="main" transform="translate(-64 -97)">
+        <g id="Group_46" data-name="Group 46" transform="translate(35 -56)">
+            <g id="Group_235" data-name="Group 235" transform="translate(-16 -605)">
+                <g id="Group_211" data-name="Group 211" transform="translate(0 656)">
+                    <g id="Group_206" data-name="Group 206">
+                        <circle id="Ellipse_1" cx="24" cy="24" r="24" class="cls-1" data-name="Ellipse 1" transform="translate(45 102)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Group_1" data-name="Group 1" transform="translate(-44 -71.333)">
+            <path id="Path_1" d="M58.441.33a1.069 1.069 0 0 0-.782-.33h-20a1.068 1.068 0 0 0-.782.33 1.068 1.068 0 0 0-.33.781v13.333a7.973 7.973 0 0 0 .582 2.96 11.032 11.032 0 0 0 1.441 2.6 16.065 16.065 0 0 0 2.049 2.214 23.875 23.875 0 0 0 2.2 1.788q1.007.712 2.1 1.345t1.554.859q.46.226.738.347a1.028 1.028 0 0 0 .9 0q.277-.121.737-.347t1.554-.859q1.093-.633 2.1-1.345a23.872 23.872 0 0 0 2.2-1.788 16.089 16.089 0 0 0 2.048-2.214 11.064 11.064 0 0 0 1.441-2.6 7.971 7.971 0 0 0 .581-2.96V1.111a1.069 1.069 0 0 0-.331-.781zm-3 14.114q0 3.056-4.08 6.25a24.49 24.49 0 0 1-3.7 2.379V3.333h7.778z" class="cls-2" data-name="Path 1" transform="translate(84.452 181.333)"/>
+            <path id="Path_2" d="M413.4 411.6v20.769a12.233 12.233 0 0 0 10.513-8.034c-.085-.171 0-13.932 0-13.932H413.4z" class="cls-2" data-name="Path 2" transform="translate(-282.827 -227.186)"/>
+        </g>
+    </g>
+</svg>

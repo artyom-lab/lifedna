@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#ddefe2}.cls-2{fill:#25772f}
+        </style>
+    </defs>
+    <g id="main" transform="translate(-67 -615)">
+        <g id="Group_5" data-name="Group 5" transform="translate(3 518)">
+            <g id="Group_46" data-name="Group 46" transform="translate(35 -56)">
+                <g id="Group_235" data-name="Group 235" transform="translate(-16 -605)">
+                    <g id="Group_211" data-name="Group 211" transform="translate(0 656)">
+                        <g id="Group_206" data-name="Group 206">
+                            <circle id="Ellipse_1" cx="24" cy="24" r="24" class="cls-1" data-name="Ellipse 1" transform="translate(45 102)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="pregnancy" transform="translate(-9 626)">
+            <path id="Path_7" d="M199.158 305.478l.5.425.5-.424c1.178-.993 2.59-2.1 2.59-3.156A1.212 1.212 0 0 0 201.6 301c-.709 0-1.049.731-1.163 1.045l-.185.516h-1.175l-.185-.516c-.114-.314-.453-1.045-1.163-1.045a1.212 1.212 0 0 0-1.156 1.321c0 .93.841 1.68 2.589 3.155z" class="cls-2" data-name="Path 7" transform="translate(-100.078 -285.343)"/>
+            <path id="Path_8" d="M93.8 9.416h2.664v1.561h-3.9a6.08 6.08 0 0 0 .226 1.781 8.583 8.583 0 1 0 13.594 0 6.211 6.211 0 0 0 .226-1.781h-3.9V9.416h2.664a2.8 2.8 0 0 0 2.8-2.8 3.444 3.444 0 0 0-1.009-2.435l-.552-.552V0h-1.561v3.589a4.534 4.534 0 0 1-2.987 1.145h-4.95a4.534 4.534 0 0 1-2.987-1.145V0H92.56v3.63l-.552.552A3.445 3.445 0 0 0 91 6.618a2.8 2.8 0 0 0 2.8 2.798zm3.85 4.682a2.508 2.508 0 0 1 1.936.89 2.508 2.508 0 0 1 1.936-.89 2.773 2.773 0 0 1 2.717 2.882c0 1.821-1.609 3.054-3.144 4.349-.313.264-1.508 1.292-1.508 1.292l-1.509-1.293c-1.825-1.539-3.143-2.652-3.143-4.348a2.773 2.773 0 0 1 2.712-2.88z" class="cls-2" data-name="Path 8"/>
+        </g>
+    </g>
+</svg>
